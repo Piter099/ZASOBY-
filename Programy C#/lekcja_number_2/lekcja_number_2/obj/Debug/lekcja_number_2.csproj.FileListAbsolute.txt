@@ -1,0 +1,7 @@
+C:\Users\Piotrek\Desktop\Programy C#\lekcja_number_2\lekcja_number_2\obj\Debug\lekcja_number_2.csprojAssemblyReference.cache
+C:\Users\Piotrek\Desktop\Programy C#\lekcja_number_2\lekcja_number_2\obj\Debug\lekcja_number_2.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\Desktop\Programy C#\lekcja_number_2\lekcja_number_2\bin\Debug\lekcja_number_2.exe.config
+C:\Users\Piotrek\Desktop\Programy C#\lekcja_number_2\lekcja_number_2\bin\Debug\lekcja_number_2.exe
+C:\Users\Piotrek\Desktop\Programy C#\lekcja_number_2\lekcja_number_2\bin\Debug\lekcja_number_2.pdb
+C:\Users\Piotrek\Desktop\Programy C#\lekcja_number_2\lekcja_number_2\obj\Debug\lekcja_number_2.exe
+C:\Users\Piotrek\Desktop\Programy C#\lekcja_number_2\lekcja_number_2\obj\Debug\lekcja_number_2.pdb

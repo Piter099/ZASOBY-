@@ -1,0 +1,6 @@
+C:\Users\Piotrek\Desktop\C# kurs z UG\FOR\FOR\bin\Debug\FOR.exe.config
+C:\Users\Piotrek\Desktop\C# kurs z UG\FOR\FOR\bin\Debug\FOR.exe
+C:\Users\Piotrek\Desktop\C# kurs z UG\FOR\FOR\bin\Debug\FOR.pdb
+C:\Users\Piotrek\Desktop\C# kurs z UG\FOR\FOR\obj\Debug\FOR.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\Desktop\C# kurs z UG\FOR\FOR\obj\Debug\FOR.exe
+C:\Users\Piotrek\Desktop\C# kurs z UG\FOR\FOR\obj\Debug\FOR.pdb

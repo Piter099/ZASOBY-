@@ -1,0 +1,7 @@
+C:\Users\Piotrek\Desktop\C# kurs z UG\Szyfr\Szyfr\obj\Debug\Szyfr.csprojAssemblyReference.cache
+C:\Users\Piotrek\Desktop\C# kurs z UG\Szyfr\Szyfr\obj\Debug\Szyfr.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\Desktop\C# kurs z UG\Szyfr\Szyfr\bin\Debug\Szyfr.exe.config
+C:\Users\Piotrek\Desktop\C# kurs z UG\Szyfr\Szyfr\bin\Debug\Szyfr.exe
+C:\Users\Piotrek\Desktop\C# kurs z UG\Szyfr\Szyfr\bin\Debug\Szyfr.pdb
+C:\Users\Piotrek\Desktop\C# kurs z UG\Szyfr\Szyfr\obj\Debug\Szyfr.exe
+C:\Users\Piotrek\Desktop\C# kurs z UG\Szyfr\Szyfr\obj\Debug\Szyfr.pdb

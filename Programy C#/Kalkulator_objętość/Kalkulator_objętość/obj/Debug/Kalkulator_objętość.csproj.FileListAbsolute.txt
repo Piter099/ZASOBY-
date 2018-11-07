@@ -1,0 +1,7 @@
+C:\Users\Piotrek\Desktop\Programy C#\Kalkulator_objętość\Kalkulator_objętość\obj\Debug\Kalkulator_objętość.csprojAssemblyReference.cache
+C:\Users\Piotrek\Desktop\Programy C#\Kalkulator_objętość\Kalkulator_objętość\obj\Debug\Kalkulator_objętość.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\Desktop\Programy C#\Kalkulator_objętość\Kalkulator_objętość\bin\Debug\Kalkulator_objętość.exe.config
+C:\Users\Piotrek\Desktop\Programy C#\Kalkulator_objętość\Kalkulator_objętość\bin\Debug\Kalkulator_objętość.exe
+C:\Users\Piotrek\Desktop\Programy C#\Kalkulator_objętość\Kalkulator_objętość\bin\Debug\Kalkulator_objętość.pdb
+C:\Users\Piotrek\Desktop\Programy C#\Kalkulator_objętość\Kalkulator_objętość\obj\Debug\Kalkulator_objętość.exe
+C:\Users\Piotrek\Desktop\Programy C#\Kalkulator_objętość\Kalkulator_objętość\obj\Debug\Kalkulator_objętość.pdb
